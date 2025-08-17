@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(36, 141, 202);
+    background-color: #2e8fa6;
     font-family: "Trebuchet MS", sans-serif;
     color: white;
     margin: 0;
@@ -20,7 +20,7 @@ body {
     height: 200px;
     border-radius: 50%;
     object-fit: cover;
-    border: 4px solid white;
+    border: 2px solid white;
 }
 
 h1 {
@@ -52,7 +52,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: rgb(36, 141, 202);
+    color: #2e8fa6;
     text-decoration: none;
     font-weight: bold;
     transition: transform 0.2s ease-in-out;
